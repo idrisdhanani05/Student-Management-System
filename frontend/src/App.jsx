@@ -6,7 +6,7 @@ import "./App.css";
 
 
 
-const API_URL = "http://localhost:5000/api/students";
+const API_URL = "https://student-management-system-jj4s.onrender.com/api/students";
 
 
 
